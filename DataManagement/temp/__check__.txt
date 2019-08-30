@@ -1,0 +1,27 @@
+
+FUNCTION:		STATUS:			MultiProcess
+detrend		-	Updated 	-	External
+AD			-	Eliminated	-	N/A
+ALL			-	Eliminated	-	N/A
+BB			-	Updated		-	External
+CCI			-	Updated		-	External
+EMA			-	Updated		-	External
+FF			-	Now Geo TA	-	N/A		
+HA			-	Updated		-	External
+MACD		-	Updated		-	External
+Master		-	Recreated	-	Master
+MM			-	New			- 	External
+MOM			-	Updated		-	External
+PRC			-	Updated		-	External
+RSI			-	Updated		-	External
+S			- 	Updated		-	External
+SLOPE		-	Updated		-	External
+SMA			-	Updated		-	External
+STD			-	New			- 	External
+W			-	Updated		-	External
+WAD			-	Rewritten	-	External
+Resample	-	Eliminated	-	N/A
+
+
+
+
